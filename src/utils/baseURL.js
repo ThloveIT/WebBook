@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-    return "http://localhost:3000"
+    return "https://book-app-backend-kappa.vercel.app"
 }
 
 export default getBaseUrl;
